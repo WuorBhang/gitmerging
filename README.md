@@ -1,7 +1,7 @@
 # gitmerging
 
 
-test 2
+test 3
 
 
 https://github.com/WuorBhang/gitmerging.git
