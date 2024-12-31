@@ -85,3 +85,7 @@ Our team prioritizes productivity through clear communication, timely task
 - Use emoji codes for quick replies and a "compliments jar" in Slack
    to recognize contributions.
 - During challenging discussions, pause to ensure everyone feels heard.
+
+## Team Names
+
+**1.** Wuor Bhang
