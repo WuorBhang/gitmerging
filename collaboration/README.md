@@ -89,4 +89,7 @@ Our team prioritizes productivity through clear communication, timely task
 ## Team Names
 
 **1.** Wuor Bhang
+
 **2.** Hafiz Hussein
+
+**3.** Tuesday
