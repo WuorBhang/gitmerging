@@ -30,8 +30,9 @@ def char_present_in_word(char, word):
     boolean: True or False
     
     Example:
-    >>> is_char_present("a", "word")
+    >>> a is_char_present("a", "word")
     False
-    >>> is_char_present("w", "word")
+    >>> w is_char_present("w", "word")
+    True
     """
     return char in word
