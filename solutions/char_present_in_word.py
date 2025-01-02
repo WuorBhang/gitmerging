@@ -18,21 +18,19 @@ Defining the present of a str in in the given word:
 
 def char_present_in_word(char, word):
     """
-    checking if letter char is present in word.
-    
-    parameter:
-    
-    char: any character 
-    word: any word 
-    
-    return:
-    
+    Check if a character is present in a given word.
+
+    Parameters:
+    char (str): The character to check.
+    word (str): The word to check in.
+
+    Returns:
     boolean: True or False
     
     Example:
-    >>> a is_char_present("a", "word")
+    >>> char_present_in_word("a", "word")
     False
-    >>> w is_char_present("w", "word")
+    >>> char_present_in_word("w", "word")
     True
     """
     return char in word
