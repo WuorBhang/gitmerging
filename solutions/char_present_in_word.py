@@ -18,7 +18,7 @@ Defining the present of a str in in the given word:
 
 def char_present_in_word(char, word):
     """
-    checking if letter a is present in word or b is present in word.
+    checking if letter char is present in word.
     
     parameter:
     
